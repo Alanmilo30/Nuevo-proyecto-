@@ -9,6 +9,8 @@ print(f"\nHola, {nombre}! Bienvenido al mundo de Python.")
 print(f"Fecha y hora actuales: {momento}")
 print(f"Tu nombre tiene {len(nombre)} caracteres.")
 print(f"Tu número de la suerte para hoy es: {numero_suerte}")
+print("¡Que tengas un excelente día, inge!")
+
 
 
 
