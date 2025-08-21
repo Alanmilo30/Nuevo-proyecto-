@@ -1,0 +1,15 @@
+import time
+import random
+
+print("Preparando saludo...")
+time.sleep(1)  # pausa de 1 segundo
+print("¡Hola mundo! ")
+
+mensajes = [
+    "Hoy es un gran día para programar.",
+    "Recuerda: Python es tu amigo.",
+    "¡Hora de conquistar el mundo con código!",
+    "Ingeniero, que nada lo detenga hoy."
+]
+
+print(random.choice(mensajes))
